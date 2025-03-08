@@ -50,5 +50,5 @@ If you would like to contribute to the project, please review the [contribution 
 ## License 📜
 [LICENSE](/LICENSE)
 
-## Crafted with care ❤️
+## Made with care ❤️
 We appreciate your choice of our software!
